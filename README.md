@@ -17,3 +17,5 @@ aws --endpoint-url=http://localhost:4566 kinesis list-streams
 aws --endpoint-url=http://localhost:4566 ec2 describe-instances
 
 aws configure list
+
+export PATH=$PATH:/Users/c92036b/Library/Python/3.9/bin
